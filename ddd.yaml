@@ -1,0 +1,11 @@
+  name: "SugarHosts"
+  type: vmess
+  server: www.iamjoeyip.name
+  port: 443
+  uuid: 8e8f1366-818c-4d3d-b12b-d61e0efae8af
+  alterId: 71
+  cipher: auto
+  tls: true
+  network: ws
+  ws-path: /mfioemcv/
+  Host: www.iamjoeyip.name
