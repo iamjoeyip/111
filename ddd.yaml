@@ -1,4 +1,5 @@
-  name: "SugarHosts"
+Proxy:
+- name: "SugarHosts"
   type: vmess
   server: www.iamjoeyip.name
   port: 443
