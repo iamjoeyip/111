@@ -1,28 +1,4 @@
-﻿Skip to content
-Why GitHub? 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-
-Sign in
-Sign up
-V2RaySSR
-/
-Tools
-337126
- Code Issues 0 Pull requests 1 Actions Projects 0 Security Insights
-Join GitHub today
-GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.
-
-Tools/clash.yaml
-@V2RaySSR V2RaySSR Clash配置文件，最新神机规则，已经支持Trojan
-9e9949e 20 days ago
-1626 lines (1597 sloc)  53 KB
-  
-###############################################################
+﻿###############################################################
 # 本范例来源为网络
 # YouTube 搜索 波仔分享
 # 原文发布地址 https://www.v2rayssr.com/clashxx.html
@@ -1576,15 +1552,3 @@ Rule:
 - GEOIP,CN,DIRECT
 
 - MATCH,Final
-? 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
